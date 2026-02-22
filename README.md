@@ -31,10 +31,11 @@ This repository serves as a structured record of my daily coding practice, focus
 - Emphasis on correctness, clarity, and learning  
 
 ---
-
 ## 📂 Repository Structure
 
 Each folder represents one day of practice.
+
+```
 Day-01/
 ├── solution.ext
 └── accepted_submission.png
@@ -42,6 +43,7 @@ Day-01/
 Day-02/
 ├── solution.ext
 └── accepted_submission.png
+```
 
 
 ### Each folder contains:
